@@ -1,9 +1,7 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Elizabeth%20Hong&fontSize=90&render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Elizabeth%20Hong&fontSize=70&render&animation=fadeIn&fontAlignY=40)
 
 <!--Bio-->
-![image](https://user-images.githubusercontent.com/80926238/185813559-5e1c8ce8-170c-4321-bb2b-812075a2f3c4.png)
-
 
 Hi there! 👋
 
@@ -22,10 +20,14 @@ When taking a break from coding, you can find me:
 ____
 
 <!--Projects-->
-<h2>💻 Projects</h2>
+
+<h2><img src="https://user-images.githubusercontent.com/80926238/185813559-5e1c8ce8-170c-4321-bb2b-812075a2f3c4.png" width="50" height="50"/> Projects</h2>
+
 
 <h3>Coming soon!🥰</h3>
+
 ___
+
 
 <!--Skills-->
 
@@ -63,7 +65,7 @@ ___
   
 <!--Footer-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&%20&fontSize=90&render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&%20&fontSize=90&render&animation=fadeIn)
 
 
 <!--
