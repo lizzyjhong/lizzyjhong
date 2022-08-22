@@ -23,8 +23,35 @@ ____
 
 <h2><img src="https://user-images.githubusercontent.com/80926238/185813559-5e1c8ce8-170c-4321-bb2b-812075a2f3c4.png" width="50" height="50"/> Projects</h2>
 
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">VelvetLuxe 💅</h3>
+        <br/>
+        <a target="_blank" href="https://velvetluxe.netlify.app/">
+            <img src="images/VelvetLuxe.gif" width="100%" alt="Nail & Spa Salon Website"/>
+        </a>
+        <br/>        
+  <a href="https://velvetluxe.netlify.app/" target="_blank">
+  </a>
+<p><strong>HTML, CSS, JS</strong> | Ensuring the next class of luxurious, relaxing, and smooth care in NY. Nail & Spa Salon in Albany, NY</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Natsukashii 🍣</h3>
+        <br/>
+        <a target="_blank" href="https://lizzyhong0.wixsite.com/natsukashii">
+            <img src="images/Natsukashii.gif" width="100%" alt="Japanese Restaurant Website"/>
+        </a>
+        <br/>
+  <a href="https://lizzyhong0.wixsite.com/natsukashii" target="_blank">
+  </a>
+  
+<p><strong>HTML, CSS, JS</strong> | Natsukashii offers a truly authentic experience that keeps clients coming back for more. Traditional Japanese Restaurant in Chicago, IL</p>
+    </td>
+  </tr>
+  </table>
 
-<h3>Coming soon!🥰</h3>
+<h3>More Coming soon! 🥰</h3>
 
 ___
 
